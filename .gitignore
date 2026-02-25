@@ -1,0 +1,8 @@
+__pycache__/
+*.pth
+train_stats/
+Offroad_Segmentation_Training_Dataset/
+*.png
+*.jpg
+*.jpeg
+.env
